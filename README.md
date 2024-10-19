@@ -203,7 +203,7 @@ int main()
 
 ## OUTPUT:
 
-![Screenshot 2024-10-19 160236](https://github.com/user-attachments/assets/f50e6056-2493-4857-9f0e-ee42d60e17cb)
+![Screenshot 2024-10-19 160236](https://github.com/user-attachments/assets/3ea23dca-ec5b-472b-9a5e-7134fc9b2d72)
 
 
 ## RESULT:
